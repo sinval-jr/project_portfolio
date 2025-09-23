@@ -35,3 +35,10 @@ Um estudo de análise de dados para encontrar correlações entre o estilo de vi
 🎯 **Objetivo:** Analisar a influência de hábitos cotidianos (horas de sono, uso de redes sociais, exercícios) no desempenho acadêmico de estudantes universitários, utilizando estatística descritiva e inferencial.
 
 **Tecnologias:** Python, Pandas, Matplotlib, Seaborn, SciPy, Dash.
+
+## 5.Classificação de Dígitos SVHN com CNN
+Um projeto de visão computacional que implementa uma Rede Neural Convolucional para classificar imagens de dígitos.
+
+🎯 **Objetivo:** Construir um modelo de CNN para prever e classificar com alta precisão dígitos de placas de casas (0 a 9) extraídos de imagens do mundo real.
+
+**Tecnologias:** Python, TensorFlow, Keras, NumPy, SciPy, Matplotlib.
