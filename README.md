@@ -6,7 +6,7 @@ Muito prazer, meu nome é Sinval Júnior, o presente repositório reúne projeto
 
 Os projetos aqui presentes foram desenvolvidos em meio às disciplinas do curso de Gestão da Informação na Universidade Federal de Goiás (UFG) e também como projetos pessoais, refletindo minha paixão por transformar dados em insights e soluções.
 
-[LinkedIn](https://www.linkedin.com/in/sinval-luiz-de-lima-j%C3%BAnior-0511b7232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5dDsxUloRTWhpRyym8ph8g%3D%3D)  | Me acompanhe o LinkedIn
+[LinkedIn](https://www.linkedin.com/in/sinval-luiz-de-lima-j%C3%BAnior-0511b7232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5dDsxUloRTWhpRyym8ph8g%3D%3D)  | Me acompanhe no LinkedIn
 
 ## 1. Reconhecimento de Dígitos MNIST com CNN
 Um projeto de visão computacional para a classificação de imagens de dígitos manuscritos.
